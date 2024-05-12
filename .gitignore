@@ -127,7 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-notebooks/pratrained_models
-notebooks/pratrained_models/*
+notebooks/pretrained_models
+notebooks/pretrained_models/*
 notebooks/data
 notebooks/*.wav
